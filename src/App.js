@@ -32,7 +32,7 @@ function App() {
           </li>
           <li>
             <h1>Write Up</h1>
-            <p>I had a few difficulties. I really wanted to get this to be 3D, so I first tried with OpenGL but I couldn't getting working with WSL, so I switched to processing but I couldnt get it looking good in 3D, so I spent a long time trying to do it with three.js since I have done a lot with it before, but eventually I didn't like that either so I switched to Unity and then It wasn't working the way I wanted it to and I was running low on time so I went for just the 2D scene in processing.</p>
+            <p>I had a few difficulties. I really wanted to get this to be 3D, so I first tried with OpenGL but I couldn't get it working with WSL, so I switched to processing but I couldnt get it looking good in 3D, so I spent a long time trying to do it with three.js since I have done a lot with it before, but eventually I didn't like that either so I switched to Unity and then It wasn't working the way I wanted it to and I was running low on time so I went for just the 2D scene in processing.</p>
             <p>Other than that, I had the most difficulty with getting the agent to work and respond to the user inputs durring run time, I kept getting weird behaviors but with enough effort I got it working correctly.</p>
           </li>
         </ul>
